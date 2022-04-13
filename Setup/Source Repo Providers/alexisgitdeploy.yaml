@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:jqlGqf5-T5i5QLKCJHwJBw
+url: https://github.com/alexisdavid1/adminlab
+urlType: REPO
+username: git

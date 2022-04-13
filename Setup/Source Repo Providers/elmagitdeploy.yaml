@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:BUHMmrB8SmShh_CyZTrQUA
+url: https://github.com/elmah18/adminlab2
+urlType: REPO
+username: git

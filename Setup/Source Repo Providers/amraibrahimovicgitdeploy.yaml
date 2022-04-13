@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:5DLilH6mT7-Xa26LMUj1Vw
+url: https://github.com/ibrahimovicamra/adminlab.git
+urlType: REPO
+username: git

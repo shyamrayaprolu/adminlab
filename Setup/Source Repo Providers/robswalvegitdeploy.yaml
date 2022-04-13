@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:0SsXzj6ESmiTH11LFgz_Gw
+url: https://github.com/rswalve/adminlab
+urlType: REPO
+username: git

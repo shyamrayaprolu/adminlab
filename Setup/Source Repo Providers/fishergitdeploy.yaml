@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:z5yNAh5qR62OfZJG4Yqq4A
+url: https://github.com/bigfishfastswimer/adminlab
+urlType: REPO
+username: fishereatworld
